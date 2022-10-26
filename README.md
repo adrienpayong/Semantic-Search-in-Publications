@@ -5,3 +5,4 @@ inter-document relatedness, which limits their document-level representation pow
 graph. 
 
 Unlike existing pretrained language models, SPECTER can be easily applied to downstream applications without task-specific fine-tuning. Additionally, to encourage further research on document-level models, we introduce SCIDOCS, a new evaluation benchmark consisting of seven document-level tasks ranging from citation prediction, to document clas sification and recommendation. We show that SPECTER outperforms a variety of competitive baselines on the benchmark.
+Follow the paper [here](https://arxiv.org/pdf/2004.07180.pdf). You can also look at the [notebook](https://github.com/adrienpayong/Semantic-Search-in-Publications/blob/main/semantic_search_publications.ipynb)
